@@ -1,1 +1,1 @@
-# Vanilla-JS-todo-app
+# Vanilla-JS-todo-list
